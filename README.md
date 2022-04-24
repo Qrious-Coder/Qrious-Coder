@@ -21,13 +21,13 @@
 </p>
 
 ---
-# The largest heading
-## About Me:
-- 🌱 I’m currently diving into Vuejs and Firebase
-- 🤔 I’m looking for Junior Front-end Dev Jobs
-- 💬 Ask me about vuejs/reactjs/front-end career move.
-- 📫 How to reach me: q81188118@gmail.com
+## About Q:
+- 😄 I’m currently diving into Vuejs and Firebase
+- ⚡ I’m looking for Junior Front-end Dev Jobs
+- 😄 Ask me about vuejs/reactjs/career move.
+- ⚡ How to reach me: q81188118@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fact about Q: work at day, code at night
+- ⚡ Fact about Q: work at day, code at night.
+- 😄 Goal: a simple life -- code on travel
 
 
