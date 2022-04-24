@@ -21,7 +21,7 @@
 </p>
 <br/>
 <br/>
--🌱 I’m currently diving into Vuejs and Firebase
+- []🌱 I’m currently diving into Vuejs and Firebase
 - 🤔 I’m looking for Junior Front-end Dev Jobs
 - 💬 Ask me about vuejs/reactjs/front-end career move.
 - 📫 How to reach me: q81188118@gmail.com
