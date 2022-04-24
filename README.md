@@ -1,13 +1,11 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164977209-d0dd5282-3cc0-452b-bfec-d4455573b384.png" width="250"/></p>
-
-<!-- <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164978967-b7aa3e5d-0413-4306-aa6a-635a19735f66.gif" width="300"/></p> -->
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164980176-77c9240d-b65b-43a6-8286-49ffd6aa62f5.gif" /></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164980180-c81beac3-0b5d-43ca-a763-db9a4edbc8dd.gif" /></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164984033-665d8be2-971b-4d4e-8259-3520fdc3fb94.gif"/></p>
 <br/>
 <p align="center">
 <a href="https://github.com/Qrious-Coder">
-  <img src="https://user-images.githubusercontent.com/91670223/164981120-13f63dc7-a234-40ce-9a5b-5912b6284dc8.png" alt="Giticon"/>
+  <img src="https://user-images.githubusercontent.com/91670223/164984444-3e5ff487-e0de-43ab-8cb9-67c7599f2ad1.png" alt="Giticon"/>
 </a>
 </p>
 <br/>
