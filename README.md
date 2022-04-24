@@ -5,7 +5,7 @@
 <br/>
 <p align="center">
 <a href="https://github.com/Qrious-Coder">
-  <img src="https://user-images.githubusercontent.com/91670223/164984505-cd44dcb2-a7a0-4235-9405-8b8a8074d045.png" alt="Giticon"/>
+  <img src="https://user-images.githubusercontent.com/91670223/164984624-cf779402-6090-48c6-b3ef-550fb991f67f.png" alt="Giticon"/>
 </a>
 </p>
 <br/>
