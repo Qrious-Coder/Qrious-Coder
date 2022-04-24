@@ -21,6 +21,7 @@
 </p>
 <br/>
 _________________________________
+<br/>
 - 🌱 I’m currently diving into Vuejs and Firebase
 - 🤔 I’m looking for Junior Front-end Dev Jobs
 - 💬 Ask me about vuejs/reactjs/front-end career move.
