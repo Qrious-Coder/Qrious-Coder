@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![oie_oie_trim_image](https://user-images.githubusercontent.com/91670223/164977209-d0dd5282-3cc0-452b-bfec-d4455573b384.png)
+<!-- ![oie_oie_trim_image](https://user-images.githubusercontent.com/91670223/164977209-d0dd5282-3cc0-452b-bfec-d4455573b384.png) -->
+
+<p align="center"><img src="https://user-images.githubusercontent.com/91670223/164977209-d0dd5282-3cc0-452b-bfec-d4455573b384.png" width="100"/></p>
 
 
 <!--
