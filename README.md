@@ -27,7 +27,7 @@
 - 😄 Ask me about vuejs/reactjs/career move.
 - ⚡ How to reach me: q81188118@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fact about Q: work at day, code at night.
+- ⚡ (fun) fact: work at day, self-learning code at night.
 - 😄 Goal: a simple life -- code on travel
 
 
