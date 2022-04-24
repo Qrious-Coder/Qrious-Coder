@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164977209-d0dd5282-3cc0-452b-bfec-d4455573b384.png" width="300"/></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164978967-b7aa3e5d-0413-4306-aa6a-635a19735f66.gif" width="300"/></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/91670223/164979865-93f46ce4-289f-498c-99fd-9ae1e643b291.gif" width="300"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/91670223/164979865-93f46ce4-289f-498c-99fd-9ae1e643b291.gif" /></p>
 
 <p align="center">### Hello World</p>
 
