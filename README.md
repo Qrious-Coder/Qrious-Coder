@@ -19,9 +19,9 @@
     <img src="https://user-images.githubusercontent.com/91670223/164985223-dd446074-58e9-431e-b7c6-bcf8119b8469.png" alt="Giticon"/>
   </a> 
 </p>
-<br/>
+
 ---
-<br/>
+# The largest heading
 ## About Me:
 - 🌱 I’m currently diving into Vuejs and Firebase
 - 🤔 I’m looking for Junior Front-end Dev Jobs
