@@ -20,16 +20,12 @@
   </a> 
 </p>
 <br/>
-<br/>
-
-
-- 🔭 I’m currently working on Vuejs
+ – – – – -
 - 🌱 I’m currently diving into Vuejs and Firebase
 - 🤔 I’m looking for Junior Front-end Dev Jobs
 - 💬 Ask me about vuejs/reactjs/front-end career move.
 - 📫 How to reach me: q81188118@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fact about Q: a self-taught coder whose life is simply: code, travel and code.
-- ⚡
+- ⚡ Fact about Q: work at day, code at night
 
 
