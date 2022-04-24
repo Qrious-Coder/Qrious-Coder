@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![oie_oie_trim_image](https://user-images.githubusercontent.com/91670223/164977209-d0dd5282-3cc0-452b-bfec-d4455573b384.png)
+
+
 <!--
 **Qrious-Coder/Qrious-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
