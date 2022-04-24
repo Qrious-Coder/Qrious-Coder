@@ -6,7 +6,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164980584-0eb7e794-71fc-4ea4-9448-59a2d5b25c19.gif" width="300"/></p>
 <br/>
 <a href="https://github.com/Qrious-Coder">
-  <img align="center" src="https://user-images.githubusercontent.com/91670223/164981120-13f63dc7-a234-40ce-9a5b-5912b6284dc8.png"/>
+  <img align="center" src="https://user-images.githubusercontent.com/91670223/164981120-13f63dc7-a234-40ce-9a5b-5912b6284dc8.png" alt="Giticon"/>
 </a>
 <br/>
 <br/>
