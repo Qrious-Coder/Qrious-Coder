@@ -1,9 +1,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164977209-d0dd5282-3cc0-452b-bfec-d4455573b384.png" width="300"/></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164978967-b7aa3e5d-0413-4306-aa6a-635a19735f66.gif" width="300"/></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/91670223/164979865-93f46ce4-289f-498c-99fd-9ae1e643b291.gif" /></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/91670223/164980030-68e3133b-a28f-4287-824c-5fb97d0878d6.gif)
-usercontent.com/91670223/164979865-93f46ce4-289f-498c-99fd-9ae1e643b291.gif" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/91670223/164980176-77c9240d-b65b-43a6-8286-49ffd6aa62f5.gif" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/91670223/164980180-c81beac3-0b5d-43ca-a763-db9a4edbc8dd.gif" /></p>
 
 <p align="center">### Hello World</p>
 
