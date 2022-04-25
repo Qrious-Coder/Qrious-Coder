@@ -25,7 +25,7 @@
 
 ---
 <h2>
-  <span><img src="https://user-images.githubusercontent.com/91670223/165055233-ae13a7ae-58f4-41e7-aacd-a8f91bea00f4.png" alt="flower"/></span>
+  <span><img src="https://user-images.githubusercontent.com/91670223/165062384-cdc4a28d-b8dc-4caf-a0c1-f98909e2f2ee.png" alt="flower"/></span>
   About Q:
 </h2>
 
