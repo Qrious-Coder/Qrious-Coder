@@ -3,10 +3,10 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164980180-c81beac3-0b5d-43ca-a763-db9a4edbc8dd.gif" /></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164984033-665d8be2-971b-4d4e-8259-3520fdc3fb94.gif"/></p>
 <p align="center">
-  <a href="https://github.com/Qrious-Coder" target="_blank">
+  <a href="https://github.com/Qrious-Coder" target="_blank" rel="noreferrer noopener">
     <img src="https://user-images.githubusercontent.com/91670223/164985205-3d87f223-9a52-4292-aacd-49f35dfaa664.png" alt="folderIcon"/>
   </a> +
-  <a href="https://github.com/Qrious-Coder" target="_blank">
+  <a href="https://github.com/Qrious-Coder" target="_blank" rel="noreferrer noopener">
     <img src="https://user-images.githubusercontent.com/91670223/164984823-9e9e95c5-d5a3-4d7e-91f2-d46abff3e3e6.png" alt="gitIcon"/>
   </a> +
   <a href="https://mail.google.com/mail/?view=cm&to=q81188118@gmail.com&su=Email+To+Q_coder&body=Write+your+message+here&bcc=h20218888@gmail.com">
@@ -15,7 +15,7 @@
   <a href="https://www.messenger.com/t/100001670613328/" target="_blank" rel="noreferrer noopener">
     <img src="https://user-images.githubusercontent.com/91670223/164985218-7c57720e-d98d-41af-9f9e-7ffa1811a675.png" alt="gitIcon"/>
   </a> -
-  <a href="https://github.com/Qrious-Coder" target="_blank">
+  <a href="https://t.me/Q_Duan" target="_blank" rel="noreferrer noopener">
     <img src="https://user-images.githubusercontent.com/91670223/164985223-dd446074-58e9-431e-b7c6-bcf8119b8469.png" alt="teleIcon"/>
   </a> 
 </p>
