@@ -29,7 +29,7 @@
   About Q:
 </h2>
 
-- 😄 I’m currently diving into Vuejs and Firebase
+- 😄 I’m currently diving into Vuejs and Firebase https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png
 - ⚡ I’m looking for Junior Front-end Dev Jobs
 - 😄 Ask me about vuejs/reactjs/career move.
 - ⚡ How to reach me: q81188118@gmail.com
