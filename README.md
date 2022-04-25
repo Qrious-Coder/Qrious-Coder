@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164977209-d0dd5282-3cc0-452b-bfec-d4455573b384.png" width="250"/></p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91670223/165054339-91bf2beb-4a97-45b2-9d29-5472b5751163.png" />
+  <img src="https://user-images.githubusercontent.com/91670223/165054339-91bf2beb-4a97-45b2-9d29-5472b5751163.png" alt="handIcon"/>
   <img src="https://user-images.githubusercontent.com/91670223/164980176-77c9240d-b65b-43a6-8286-49ffd6aa62f5.gif" />
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/91670223/164980180-c81beac3-0b5d-43ca-a763-db9a4edbc8dd.gif" /></p>
@@ -24,7 +24,7 @@
 </p>
 
 ---
-## About Q:
+<img src="https://user-images.githubusercontent.com/91670223/165055233-ae13a7ae-58f4-41e7-aacd-a8f91bea00f4.png" alt="flower"/>##About Q:
 - 😄 I’m currently diving into Vuejs and Firebase
 - ⚡ I’m looking for Junior Front-end Dev Jobs
 - 😄 Ask me about vuejs/reactjs/career move.
