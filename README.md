@@ -29,7 +29,7 @@
   About Q:
 </h2>
 
-- <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="flower"/></span> I’m currently diving into Vuejs and Firebase 
+- <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="search"/></span> I’m currently diving into Vuejs and Firebase 
 - <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="flower"/></span>I’m looking for Junior Front-end Dev Jobs
 - <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="flower"/></span> Ask me about vuejs/reactjs/career move.
 - <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="flower"/></span>How to reach me: q81188118@gmail.com
