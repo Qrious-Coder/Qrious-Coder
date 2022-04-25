@@ -8,11 +8,11 @@
   </a> +
   <a href="https://github.com/Qrious-Coder">
     <img src="https://user-images.githubusercontent.com/91670223/164984823-9e9e95c5-d5a3-4d7e-91f2-d46abff3e3e6.png" alt="gitIcon"/>
-  </a> -
+  </a>
   <a href="https://github.com/Qrious-Coder">
     <img src="https://user-images.githubusercontent.com/91670223/164985216-305ff82e-0d3f-41e8-8dea-016bf8325fab.png" alt="Giticon"/>
   </a> +
-  <a href="https://github.com/Qrious-Coder">
+  <a href="href="http://m.me/danshenguizu" target="_blank"">
     <img src="https://user-images.githubusercontent.com/91670223/164985218-7c57720e-d98d-41af-9f9e-7ffa1811a675.png" alt="Giticon"/>
   </a> -
   <a href="https://github.com/Qrious-Coder">
