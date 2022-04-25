@@ -24,7 +24,8 @@
 </p>
 
 ---
-<img src="https://user-images.githubusercontent.com/91670223/165055233-ae13a7ae-58f4-41e7-aacd-a8f91bea00f4.png" alt="flower"/>##About Q:
+<img src="https://user-images.githubusercontent.com/91670223/165055233-ae13a7ae-58f4-41e7-aacd-a8f91bea00f4.png" alt="flower"/>
+##About Q:
 - 😄 I’m currently diving into Vuejs and Firebase
 - ⚡ I’m looking for Junior Front-end Dev Jobs
 - 😄 Ask me about vuejs/reactjs/career move.
