@@ -29,12 +29,12 @@
   About Q:
 </h2>
 
-- 😄 <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="flower"/></span> I’m currently diving into Vuejs and Firebase 
-- ⚡ I’m looking for Junior Front-end Dev Jobs
-- 😄 Ask me about vuejs/reactjs/career move.
-- ⚡ How to reach me: q81188118@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ (fun) fact: work at day, self-learning code at night.
-- 😄 Goal: a simple life -- code on travel
+- <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="flower"/></span> I’m currently diving into Vuejs and Firebase 
+- <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="flower"/></span>I’m looking for Junior Front-end Dev Jobs
+- <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="flower"/></span> Ask me about vuejs/reactjs/career move.
+- <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="flower"/></span>How to reach me: q81188118@gmail.com
+- <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="flower"/></span> Pronouns: She/her
+- <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="flower"/></span>(fun) fact: work at day, self-learning code at night.
+- <span><img src="https://user-images.githubusercontent.com/91670223/165063076-9f267a83-d888-40cd-820a-d66bfd5f65e1.png" alt="flower"/></span>Goal: a simple life -- code on travel
 
 
