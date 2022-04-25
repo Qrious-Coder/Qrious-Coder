@@ -12,7 +12,7 @@
   <a href="https://github.com/Qrious-Coder">
     <img src="https://user-images.githubusercontent.com/91670223/164985216-305ff82e-0d3f-41e8-8dea-016bf8325fab.png" alt="Giticon"/>
   </a> +
-  <a href="href="https://www.messenger.com/t/100001670613328/" target="_blank"">
+  <a href="https://www.messenger.com/t/100001670613328/" target="_blank"">
     <img src="https://user-images.githubusercontent.com/91670223/164985218-7c57720e-d98d-41af-9f9e-7ffa1811a675.png" alt="Giticon"/>
   </a> -
   <a href="https://github.com/Qrious-Coder">
