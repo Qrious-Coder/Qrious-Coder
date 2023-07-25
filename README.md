@@ -28,7 +28,7 @@
 ---
 <h2>
   <span><img src="https://user-images.githubusercontent.com/91670223/165063378-40bba257-80c8-44ac-8af1-2d5cc7e98d6c.png" alt="flower"/></span>
-  Q is a self-taugh developer:
+  Q is a self-taught developer:
 </h2>
 
 - <span><img src="https://user-images.githubusercontent.com/91670223/165269812-34895827-d6e9-485e-b0bf-0576abb75238.png" alt="research"/></span> Currently diving into Web Developemnt. 
@@ -50,7 +50,13 @@
 - [Back End Development and APIs, issued by FFC](https://www.freecodecamp.org/certification/fcc4fc88511-dbc6-45a8-b0ac-3e001a846dd3/back-end-development-and-apis)
 - [Developing Back-End Apps with Node.js and Express issued by IBM](https://coursera.org/share/abab77d5cb63fbde2d00033e43f27bee)
 - [Python for Data Science, AI & Development](https://coursera.org/share/7e9a07e6ac7ae50629d530e759540431)
-- ..."if you are tired, learn to rest, not to quit"- Banky :muscle:
+
+<h2>
+  <span><img src="https://user-images.githubusercontent.com/91670223/165063378-40bba257-80c8-44ac-8af1-2d5cc7e98d6c.png" alt="flower"/></span>
+  Hey Q! "if you are tired, learn to rest, not to quit"- Banky :muscle:
+</h2>
+- Enjoy some :musical_note: with little bash script [here](github)
+
 
 
 
