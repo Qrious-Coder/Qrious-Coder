@@ -45,7 +45,7 @@
   Q is a life learner:
 </h2>
 
-- A [Responsive Web Design Certificate issued by FFC](https://www.freecodecamp.org/certification/q_coder/responsive-web-design)
+- [Responsive Web Design Certificate issued by FFC](https://www.freecodecamp.org/certification/q_coder/responsive-web-design)
 - [Javascript Algorithms and Data Structures, issued by FFC](https://www.freecodecamp.org/certification/q_coder/javascript-algorithms-and-data-structures)
 - [Front End Development Libraries, issued by FFC](https://www.freecodecamp.org/certification/q_coder/front-end-development-libraries)
 - [Back End Development and APIs, issued by FFC](https://www.freecodecamp.org/certification/fcc4fc88511-dbc6-45a8-b0ac-3e001a846dd3/back-end-development-and-apis)
