@@ -44,9 +44,9 @@
   <span><img src="https://user-images.githubusercontent.com/91670223/165063378-40bba257-80c8-44ac-8af1-2d5cc7e98d6c.png" alt="flower"/></span>
   Q is a life learner:
 </h2>
-[Responsive Web Design Certificate, issued by FFC](https://www.freecodecamp.org/certification/q_coder/responsive-web-design)
-[Javascript Algorithms and Data Structures, issued by FFC](https://www.freecodecamp.org/certification/q_coder/javascript-algorithms-and-data-structures)
-[Front End Development Libraries, issued by FFC](https://www.freecodecamp.org/certification/q_coder/front-end-development-libraries)
+- [Responsive Web Design Certificate issued by FFC](https://www.freecodecamp.org/certification/q_coder/responsive-web-design)
+- [Javascript Algorithms and Data Structures, issued by FFC](https://www.freecodecamp.org/certification/q_coder/javascript-algorithms-and-data-structures)
+- [Front End Development Libraries, issued by FFC](https://www.freecodecamp.org/certification/q_coder/front-end-development-libraries)
 - [Back End Development and APIs, issued by FFC](https://www.freecodecamp.org/certification/fcc4fc88511-dbc6-45a8-b0ac-3e001a846dd3/back-end-development-and-apis)
 - [Developing Back-End Apps with Node.js and Express issued by IBM](https://coursera.org/share/abab77d5cb63fbde2d00033e43f27bee)
 - [Python for Data Science, AI & Development](https://coursera.org/share/7e9a07e6ac7ae50629d530e759540431)
