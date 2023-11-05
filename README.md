@@ -36,7 +36,7 @@
 - <span><img src="https://user-images.githubusercontent.com/91670223/165270189-0ca212f0-1049-4b16-a112-782e95877b9d.png" alt="ask"/></span> Ask me about vuejs/reactjs/python/career move.
 - <span><img src="https://user-images.githubusercontent.com/91670223/165266261-02b7eabe-406b-4c31-9293-c992d64501c8.png" alt="contact"/></span> Reach me at: q81188118@gmail.com
 - <span><img src="https://user-images.githubusercontent.com/91670223/165270423-f25521c1-b586-4a33-baca-29b1f8f0548c.png" alt="pronoun"/></span> Pronouns: She/her
-- <span><img src="https://user-images.githubusercontent.com/91670223/165270721-cad55883-7c5d-4fbb-9158-26f63ffcd63d.png" alt="fact"/></span> (fun) fact: Everyday eat once, sleep 7 hours, walk and swim 2 hours, yet still look fat and relaxing :rofl:.
+- <span><img src="https://user-images.githubusercontent.com/91670223/165270721-cad55883-7c5d-4fbb-9158-26f63ffcd63d.png" alt="fact"/></span> (fun) fact: Everyday eat once, sleep 7 hours, walk and swim 2 hours, yet still look fat :rofl:.
 - <span><img src="https://user-images.githubusercontent.com/91670223/165270951-34ca8d2d-ff5f-45cb-a0c1-31ae6c501dc8.png" alt="goal"/></span> Goal: a simple life -- CODE, TRAVEL, CODE
 - <span><img src="https://user-images.githubusercontent.com/91670223/165275107-eaadca8a-1984-4f84-95f8-d8adf285a50d.png" alt="research"/></span> Spoken 3 languages: English, Mandarin, Vietnamese.
 ---
@@ -51,6 +51,8 @@
 - [Back End Development and APIs - FFC](https://www.freecodecamp.org/certification/fcc4fc88511-dbc6-45a8-b0ac-3e001a846dd3/back-end-development-and-apis)
 - [Developing Back-End Apps with Node.js and Express - IBM](https://coursera.org/share/abab77d5cb63fbde2d00033e43f27bee)
 - [Python for Data Science, AI & Development - IBM](https://coursera.org/share/7e9a07e6ac7ae50629d530e759540431)
+- [Data Analyst Professional Certificate (V2)](https://www.credly.com/badges/c4c4fc46-4a7e-44b2-9b96-654e2bb03fd0/public_url)
+- Currently I am working as a full-time frontend developer, while doing a Bachelor of Computer Science at University of The People, USA.
 
 
 
