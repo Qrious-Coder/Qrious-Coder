@@ -31,7 +31,7 @@
   Q is a self-taught developer:
 </h2>
 
-- <span><img src="https://user-images.githubusercontent.com/91670223/165269812-34895827-d6e9-485e-b0bf-0576abb75238.png" alt="research"/></span> Currently diving into Web Developemnt. 
+- <span><img src="https://user-images.githubusercontent.com/91670223/165269812-34895827-d6e9-485e-b0bf-0576abb75238.png" alt="research"/></span> Currently diving into OpenAi and Web Dev. 
 - <span><img src="https://user-images.githubusercontent.com/91670223/165065507-fc5705a7-930f-44d3-a16b-3688ae9e9849.png" alt="search"/></span> Starting in June 2022, officially work as a 9-5 Frontend developer! Heading towards the fullstack path.
 - <span><img src="https://user-images.githubusercontent.com/91670223/165270189-0ca212f0-1049-4b16-a112-782e95877b9d.png" alt="ask"/></span> Ask me about vuejs/reactjs/python/career move.
 - <span><img src="https://user-images.githubusercontent.com/91670223/165266261-02b7eabe-406b-4c31-9293-c992d64501c8.png" alt="contact"/></span> Reach me at: q81188118@gmail.com
