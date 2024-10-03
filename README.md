@@ -52,7 +52,8 @@
 - [Developing Back-End Apps with Node.js and Express - IBM](https://coursera.org/share/abab77d5cb63fbde2d00033e43f27bee)
 - [Python for Data Science, AI & Development - IBM](https://coursera.org/share/7e9a07e6ac7ae50629d530e759540431)
 - [Data Analyst Professional Certificate (V2)](https://www.credly.com/badges/c4c4fc46-4a7e-44b2-9b96-654e2bb03fd0/public_url)
-- Currently I am working as a full-time frontend developer, while doing a Bachelor of Computer Science at University of The People, USA.
+- Graduated at B.C.S from the University of The People, USA.
+- Currently I am working as a full-time frontend developer.
 
 
 
